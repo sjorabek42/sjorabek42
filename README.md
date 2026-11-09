@@ -101,6 +101,14 @@ const jorabek = {
 <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
+<a href="https://t.me/sjorabek42">
+<img src="https://img.shields.io/badge/Telegram-181717?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://sjorabek42.uz">
+<img src="https://img.shields.io/badge/Link-181717?style=for-the-badge&logo=link&logoColor=white" />
+</a>
+
 <!-- Add your social links here -->
 
 </div>
