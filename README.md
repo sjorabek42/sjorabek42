@@ -37,21 +37,24 @@ Building modern, scalable and beautiful digital experiences.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sjorabek42&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=sjorabek42&show_icons=true&hide_border=true&theme=transparent" width="48%" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjorabek42&layout=compact&hide_border=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjorabek42&layout=compact&hide_border=true&theme=transparent" width="48%" />
 
 </div>
+
 
 ---
 
 ## 🔥 Contribution Streak
 
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sjorabek42&theme=default&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sjorabek42&hide_border=true&background=FFFFFF&stroke=DDDDDD&ring=333333&fire=555555&currStreakLabel=333333&sideLabels=555555&dates=888888" width="70%" />
 
 </div>
+
 
 ---
 
