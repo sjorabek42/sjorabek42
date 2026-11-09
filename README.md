@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Sjorabek
+# Jo'rabek Sattorov
 
 ### Full-Stack Developer | Software Engineer
 
