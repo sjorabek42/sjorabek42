@@ -106,7 +106,7 @@ const jorabek = {
 </a>
 
 <a href="https://sjorabek42.uz">
-<img src="https://img.shields.io/badge/Link-181717?style=for-the-badge&logo=link&logoColor=white" />
+<img src="https://img.shields.io/badge/sjorabek42.uz-181717?style=for-the-badge&logo=internet&logoColor=white" />
 </a>
 
 <!-- Add your social links here -->
