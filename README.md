@@ -1,108 +1,118 @@
 
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&text=Jo'rabek%20Sattorov&fontSize=48&fontColor=ffffff&fontAlignY=50&animation=fadeIn&stroke=00000000" width="100%" />
 
-<sub>SOFTWARE ENGINEERING · WEB DEVELOPMENT · CREATIVE TECHNOLOGY</sub>
+### Hey, I'm Jo'rabek! 👋
 
-# Jo'rabek Sattorov
+**Full-Stack Developer · Software Engineer · Creative Thinker**
 
-**Turning ideas into meaningful digital experiences.**
-
-<br/>
-
-`FULL-STACK DEVELOPER` &nbsp;·&nbsp; `CREATOR` &nbsp;·&nbsp; `PROBLEM SOLVER`
+*I turn complex ideas into simple, elegant and powerful solutions.*
 
 <br/>
 
 <a href="https://github.com/sjorabek42">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-181818?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=sjorabek42&style=for-the-badge&color=black&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+## ✨ About Me
+
+```js
+const jorabek = {
+    name: "Jo'rabek Sattorov",
+    username: "sjorabek42",
+    role: "Full-Stack Developer",
+    mindset: "Think. Build. Improve.",
+    interests: [
+        "Web Development",
+        "Software Engineering",
+        "Creative Coding",
+        "Problem Solving"
+    ],
+    currently: "Building something awesome 🚀"
+};
+```
+
+- 🚀 Creating modern and interactive digital experiences.
+- 💡 Turning creative ideas into real-world applications.
+- ⚡ Passionate about clean code and performance.
+- 🎯 Always learning, experimenting and building.
+
+---
+
+## 💻 My Tech Universe
+
+<div align="center">
+
+### Languages & Core
+
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python&theme=light" />
 
 <br/><br/>
 
-</div>
+### Frameworks & Runtime
 
----
-
-<div align="center">
-
-### A LITTLE ABOUT ME
-
-</div>
-
-I believe great software is not just about writing code.
-It's about creating things that are useful, thoughtful and built to last.
-
-- Independent developer focused on modern web technologies.
-- Interested in software architecture and creative problem solving.
-- Building digital products with simplicity and performance in mind.
-- Always exploring new ideas and improving my craft.
-
----
-
-<div align="center">
-
-### TECHNOLOGIES
-
-*Tools I use to bring ideas to life.*
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,nodejs,react,nextjs&theme=light" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs&theme=light" />
 
 </div>
 
 ---
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-### GITHUB OVERVIEW
+<img src="https://github-stats-extended.vercel.app/api?username=sjorabek42&show_icons=true&hide_border=true&theme=default" width="49%" />
 
-<br/>
-
-<img src="https://github-stats-extended.vercel.app/api?username=sjorabek42&show_icons=true&hide_border=true&theme=default" width="48%" />
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sjorabek42&layout=compact&hide_border=true&theme=default" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sjorabek42&layout=compact&hide_border=true&theme=default" width="49%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sjorabek42&hide_border=true&background=FFFFFF&stroke=DDDDDD&ring=333333&fire=555555&currStreakLabel=333333&sideLabels=555555&dates=888888" width="70%" />
+<img src="https://streak-stats.demolab.com?user=sjorabek42&hide_border=true&background=FFFFFF&stroke=DDDDDD&ring=333333&fire=555555&currStreakLabel=333333&sideLabels=555555&dates=888888" width="75%" />
 
 </div>
 
 ---
 
+## 🐍 My Contribution Journey
+
 <div align="center">
 
-### CONSISTENCY OVER INTENSITY
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/sjorabek42/sjorabek42/output/github-contribution-grid-snake.svg" alt="Contribution animation" />
+<img src="https://raw.githubusercontent.com/sjorabek42/sjorabek42/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
 
 </div>
 
 ---
 
-<div align="center">
+## 🌐 Find Me Around The Web
 
-### LET'S CONNECT
+<div align="center">
 
 <a href="https://github.com/sjorabek42">
-  <img src="https://img.shields.io/badge/GITHUB-181818?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+<!-- Add your social links here -->
 
-<sub>Designed with intention. Built with curiosity.</sub>
+</div>
+
+---
+
+<div align="center">
+
+### 💭 A LITTLE PHILOSOPHY
+
+*"Great things are built one line of code at a time."*
 
 <br/>
 
-<sub>© 2026 · Jo'rabek Sattorov</sub>
+**Thanks for stopping by! Have a great day.** 🤍
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sjorabek42&style=flat-square&color=dedede&label=PROFILE+VIEWS" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 
 </div>
