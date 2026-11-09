@@ -35,13 +35,15 @@ Building modern, scalable and beautiful digital experiences.
 
 ## 📊 GitHub Statistics
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sjorabek42&show_icons=true&hide_border=true&theme=transparent" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=sjorabek42&show_icons=true&hide_border=true&theme=default" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjorabek42&layout=compact&hide_border=true&theme=transparent" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sjorabek42&layout=compact&hide_border=true&theme=default" width="48%" />
 
 </div>
+
 
 
 ---
